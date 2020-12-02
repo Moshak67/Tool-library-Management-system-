@@ -1,2 +1,8 @@
 # Tool-library-Management-system-
-C# Project, Data Structure and Algorithm 
+
+Simple C# Project
+Inventory Management To:
+
+Add Tools
+Lend Tools
+Return Tools
